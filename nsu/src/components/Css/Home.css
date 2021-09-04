@@ -1,0 +1,31 @@
+.hero {
+  height: 100vh;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/hotel-ee080.appspot.com/o/cover.png?alt=media&token=bd54b312-15f8-464e-899b-976cfedabe2d");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0;
+}
+.introText {
+  text-align: center;
+}
+
+.SpaceText {
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.rows .row {
+  display: inline-block;
+}
+
+.beforeLast {
+  height: 70vh;
+  width: 100%;
+  background-image: url("https://firebasestorage.googleapis.com/v0/b/hotel-ee080.appspot.com/o/last.jpg?alt=media&token=9370c0f5-d080-479c-9eb6-b7ec9c078b82");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  padding: 0;
+}
